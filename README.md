@@ -1,5 +1,5 @@
 # Guildeline-for-OList-new-sellers-analysis
-Objective: Analyize to find out a good category for new sellers to start out an  business via Olist-Brazilian Ecommrce platform and detect customers' main complaints
+Objective: Suggesting a well-perfomred category for new sellers to start a business via Olist-Brazilian Ecommrce platform and detect/ analyze customers' complaints
 Main stuctures and techniques:
 - Clean data, merge tables and analyze which category is suitable for new sellers
 - Detect and visualize customers main complaint using googletrans, Regex, Bigram,and Word cloud libaries
